@@ -1,0 +1,1996 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lattice>
+    <waypoint x="0.8229599999999999" y="0.41147999999999996">
+        <neighbor waypoint_id="1"/>
+        <neighbor waypoint_id="6"/>
+        <neighbor waypoint_id="7"/>
+        <neighbor waypoint_id="232"/>
+    </waypoint>
+    <waypoint x="0.8229599999999999" y="0.8229599999999999">
+        <neighbor waypoint_id="0"/>
+        <neighbor waypoint_id="2"/>
+        <neighbor waypoint_id="6"/>
+        <neighbor waypoint_id="7"/>
+        <neighbor waypoint_id="8"/>
+        <neighbor waypoint_id="232"/>
+    </waypoint>
+    <waypoint x="0.8229599999999999" y="1.2344399999999998">
+        <neighbor waypoint_id="1"/>
+        <neighbor waypoint_id="7"/>
+        <neighbor waypoint_id="8"/>
+        <neighbor waypoint_id="232"/>
+    </waypoint>
+    <waypoint x="0.8229599999999999" y="6.995159999999999">
+        <neighbor waypoint_id="4"/>
+        <neighbor waypoint_id="9"/>
+        <neighbor waypoint_id="10"/>
+        <neighbor waypoint_id="233"/>
+    </waypoint>
+    <waypoint x="0.8229599999999999" y="7.4066399999999994">
+        <neighbor waypoint_id="3"/>
+        <neighbor waypoint_id="5"/>
+        <neighbor waypoint_id="9"/>
+        <neighbor waypoint_id="10"/>
+        <neighbor waypoint_id="11"/>
+        <neighbor waypoint_id="233"/>
+    </waypoint>
+    <waypoint x="0.8229599999999999" y="7.8181199999999995">
+        <neighbor waypoint_id="4"/>
+        <neighbor waypoint_id="10"/>
+        <neighbor waypoint_id="11"/>
+        <neighbor waypoint_id="233"/>
+    </waypoint>
+    <waypoint x="1.2344399999999998" y="0.41147999999999996">
+        <neighbor waypoint_id="0"/>
+        <neighbor waypoint_id="1"/>
+        <neighbor waypoint_id="7"/>
+        <neighbor waypoint_id="12"/>
+        <neighbor waypoint_id="13"/>
+    </waypoint>
+    <waypoint x="1.2344399999999998" y="0.8229599999999999">
+        <neighbor waypoint_id="0"/>
+        <neighbor waypoint_id="1"/>
+        <neighbor waypoint_id="2"/>
+        <neighbor waypoint_id="6"/>
+        <neighbor waypoint_id="8"/>
+        <neighbor waypoint_id="12"/>
+        <neighbor waypoint_id="13"/>
+        <neighbor waypoint_id="14"/>
+    </waypoint>
+    <waypoint x="1.2344399999999998" y="1.2344399999999998">
+        <neighbor waypoint_id="1"/>
+        <neighbor waypoint_id="2"/>
+        <neighbor waypoint_id="7"/>
+        <neighbor waypoint_id="13"/>
+        <neighbor waypoint_id="14"/>
+        <neighbor waypoint_id="15"/>
+    </waypoint>
+    <waypoint x="1.2344399999999998" y="6.995159999999999">
+        <neighbor waypoint_id="3"/>
+        <neighbor waypoint_id="4"/>
+        <neighbor waypoint_id="10"/>
+        <neighbor waypoint_id="25"/>
+        <neighbor waypoint_id="26"/>
+        <neighbor waypoint_id="27"/>
+    </waypoint>
+    <waypoint x="1.2344399999999998" y="7.4066399999999994">
+        <neighbor waypoint_id="3"/>
+        <neighbor waypoint_id="4"/>
+        <neighbor waypoint_id="5"/>
+        <neighbor waypoint_id="9"/>
+        <neighbor waypoint_id="11"/>
+        <neighbor waypoint_id="26"/>
+        <neighbor waypoint_id="27"/>
+        <neighbor waypoint_id="28"/>
+    </waypoint>
+    <waypoint x="1.2344399999999998" y="7.8181199999999995">
+        <neighbor waypoint_id="4"/>
+        <neighbor waypoint_id="5"/>
+        <neighbor waypoint_id="10"/>
+        <neighbor waypoint_id="27"/>
+        <neighbor waypoint_id="28"/>
+    </waypoint>
+    <waypoint x="1.6459199999999998" y="0.41147999999999996">
+        <neighbor waypoint_id="6"/>
+        <neighbor waypoint_id="7"/>
+        <neighbor waypoint_id="13"/>
+        <neighbor waypoint_id="29"/>
+        <neighbor waypoint_id="30"/>
+    </waypoint>
+    <waypoint x="1.6459199999999998" y="0.8229599999999999">
+        <neighbor waypoint_id="6"/>
+        <neighbor waypoint_id="7"/>
+        <neighbor waypoint_id="8"/>
+        <neighbor waypoint_id="12"/>
+        <neighbor waypoint_id="14"/>
+        <neighbor waypoint_id="29"/>
+        <neighbor waypoint_id="30"/>
+        <neighbor waypoint_id="31"/>
+    </waypoint>
+    <waypoint x="1.6459199999999998" y="1.2344399999999998">
+        <neighbor waypoint_id="7"/>
+        <neighbor waypoint_id="8"/>
+        <neighbor waypoint_id="13"/>
+        <neighbor waypoint_id="15"/>
+        <neighbor waypoint_id="30"/>
+        <neighbor waypoint_id="31"/>
+        <neighbor waypoint_id="32"/>
+    </waypoint>
+    <waypoint x="1.6459199999999998" y="1.6459199999999998">
+        <neighbor waypoint_id="8"/>
+        <neighbor waypoint_id="14"/>
+        <neighbor waypoint_id="31"/>
+        <neighbor waypoint_id="32"/>
+        <neighbor waypoint_id="16"/>
+    </waypoint>
+    <waypoint x="1.6459199999999998" y="2.4688799999999995">
+        <neighbor waypoint_id="17"/>
+        <neighbor waypoint_id="15"/>
+        <neighbor waypoint_id="50"/>
+    </waypoint>
+    <waypoint x="1.6650961412136644" y="2.9891552794940934">
+        <neighbor waypoint_id="16"/>
+        <neighbor waypoint_id="18"/>
+        <neighbor waypoint_id="51"/>
+    </waypoint>
+    <target name="Hab 1 Left" waypoint_id="17"/>
+    <waypoint x="1.6459199999999998" y="3.2918399999999997">
+        <neighbor waypoint_id="17"/>
+        <neighbor waypoint_id="19"/>
+        <neighbor waypoint_id="52"/>
+    </waypoint>
+    <waypoint x="1.6459199999999998" y="3.7033199999999997">
+        <neighbor waypoint_id="18"/>
+        <neighbor waypoint_id="20"/>
+        <neighbor waypoint_id="53"/>
+    </waypoint>
+    <waypoint x="1.6459199999999998" y="4.1148">
+        <neighbor waypoint_id="19"/>
+        <neighbor waypoint_id="21"/>
+        <neighbor waypoint_id="54"/>
+    </waypoint>
+    <target name="Hab 1 Center" waypoint_id="20"/>
+    <waypoint x="1.6459199999999998" y="4.52628">
+        <neighbor waypoint_id="20"/>
+        <neighbor waypoint_id="22"/>
+        <neighbor waypoint_id="55"/>
+    </waypoint>
+    <waypoint x="1.6459199999999998" y="4.937759999999999">
+        <neighbor waypoint_id="21"/>
+        <neighbor waypoint_id="23"/>
+        <neighbor waypoint_id="56"/>
+    </waypoint>
+    <waypoint x="1.6650961412136647" y="5.240444720505906">
+        <neighbor waypoint_id="22"/>
+        <neighbor waypoint_id="24"/>
+        <neighbor waypoint_id="57"/>
+    </waypoint>
+    <target name="Hab 1 Right" waypoint_id="23"/>
+    <waypoint x="1.6459199999999998" y="5.760719999999999">
+        <neighbor waypoint_id="23"/>
+        <neighbor waypoint_id="25"/>
+        <neighbor waypoint_id="58"/>
+    </waypoint>
+    <waypoint x="1.6459199999999998" y="6.583679999999999">
+        <neighbor waypoint_id="9"/>
+        <neighbor waypoint_id="26"/>
+        <neighbor waypoint_id="33"/>
+        <neighbor waypoint_id="34"/>
+        <neighbor waypoint_id="24"/>
+    </waypoint>
+    <waypoint x="1.6459199999999998" y="6.995159999999999">
+        <neighbor waypoint_id="9"/>
+        <neighbor waypoint_id="10"/>
+        <neighbor waypoint_id="25"/>
+        <neighbor waypoint_id="27"/>
+        <neighbor waypoint_id="33"/>
+        <neighbor waypoint_id="34"/>
+        <neighbor waypoint_id="35"/>
+    </waypoint>
+    <waypoint x="1.6459199999999998" y="7.4066399999999994">
+        <neighbor waypoint_id="9"/>
+        <neighbor waypoint_id="10"/>
+        <neighbor waypoint_id="11"/>
+        <neighbor waypoint_id="26"/>
+        <neighbor waypoint_id="28"/>
+        <neighbor waypoint_id="34"/>
+        <neighbor waypoint_id="35"/>
+        <neighbor waypoint_id="36"/>
+    </waypoint>
+    <waypoint x="1.6459199999999998" y="7.8181199999999995">
+        <neighbor waypoint_id="10"/>
+        <neighbor waypoint_id="11"/>
+        <neighbor waypoint_id="27"/>
+        <neighbor waypoint_id="35"/>
+        <neighbor waypoint_id="36"/>
+    </waypoint>
+    <waypoint x="2.0574" y="0.41147999999999996">
+        <neighbor waypoint_id="12"/>
+        <neighbor waypoint_id="13"/>
+        <neighbor waypoint_id="30"/>
+        <neighbor waypoint_id="37"/>
+        <neighbor waypoint_id="38"/>
+    </waypoint>
+    <waypoint x="2.0574" y="0.8229599999999999">
+        <neighbor waypoint_id="12"/>
+        <neighbor waypoint_id="13"/>
+        <neighbor waypoint_id="14"/>
+        <neighbor waypoint_id="29"/>
+        <neighbor waypoint_id="31"/>
+        <neighbor waypoint_id="37"/>
+        <neighbor waypoint_id="38"/>
+        <neighbor waypoint_id="39"/>
+    </waypoint>
+    <waypoint x="2.0574" y="1.2344399999999998">
+        <neighbor waypoint_id="13"/>
+        <neighbor waypoint_id="14"/>
+        <neighbor waypoint_id="15"/>
+        <neighbor waypoint_id="30"/>
+        <neighbor waypoint_id="32"/>
+        <neighbor waypoint_id="38"/>
+        <neighbor waypoint_id="39"/>
+        <neighbor waypoint_id="40"/>
+    </waypoint>
+    <waypoint x="2.0574" y="1.6459199999999998">
+        <neighbor waypoint_id="14"/>
+        <neighbor waypoint_id="15"/>
+        <neighbor waypoint_id="31"/>
+        <neighbor waypoint_id="39"/>
+        <neighbor waypoint_id="40"/>
+    </waypoint>
+    <waypoint x="2.0574" y="6.583679999999999">
+        <neighbor waypoint_id="25"/>
+        <neighbor waypoint_id="26"/>
+        <neighbor waypoint_id="34"/>
+        <neighbor waypoint_id="41"/>
+        <neighbor waypoint_id="42"/>
+    </waypoint>
+    <waypoint x="2.0574" y="6.995159999999999">
+        <neighbor waypoint_id="25"/>
+        <neighbor waypoint_id="26"/>
+        <neighbor waypoint_id="27"/>
+        <neighbor waypoint_id="33"/>
+        <neighbor waypoint_id="35"/>
+        <neighbor waypoint_id="41"/>
+        <neighbor waypoint_id="42"/>
+        <neighbor waypoint_id="43"/>
+    </waypoint>
+    <waypoint x="2.0574" y="7.4066399999999994">
+        <neighbor waypoint_id="26"/>
+        <neighbor waypoint_id="27"/>
+        <neighbor waypoint_id="28"/>
+        <neighbor waypoint_id="34"/>
+        <neighbor waypoint_id="36"/>
+        <neighbor waypoint_id="42"/>
+        <neighbor waypoint_id="43"/>
+        <neighbor waypoint_id="44"/>
+    </waypoint>
+    <waypoint x="2.0574" y="7.8181199999999995">
+        <neighbor waypoint_id="27"/>
+        <neighbor waypoint_id="28"/>
+        <neighbor waypoint_id="35"/>
+        <neighbor waypoint_id="43"/>
+        <neighbor waypoint_id="44"/>
+    </waypoint>
+    <waypoint x="2.4688799999999995" y="0.41147999999999996">
+        <neighbor waypoint_id="29"/>
+        <neighbor waypoint_id="30"/>
+        <neighbor waypoint_id="38"/>
+        <neighbor waypoint_id="45"/>
+        <neighbor waypoint_id="46"/>
+    </waypoint>
+    <waypoint x="2.4688799999999995" y="0.8229599999999999">
+        <neighbor waypoint_id="29"/>
+        <neighbor waypoint_id="30"/>
+        <neighbor waypoint_id="31"/>
+        <neighbor waypoint_id="37"/>
+        <neighbor waypoint_id="39"/>
+        <neighbor waypoint_id="45"/>
+        <neighbor waypoint_id="46"/>
+        <neighbor waypoint_id="47"/>
+    </waypoint>
+    <waypoint x="2.4688799999999995" y="1.2344399999999998">
+        <neighbor waypoint_id="30"/>
+        <neighbor waypoint_id="31"/>
+        <neighbor waypoint_id="32"/>
+        <neighbor waypoint_id="38"/>
+        <neighbor waypoint_id="40"/>
+        <neighbor waypoint_id="46"/>
+        <neighbor waypoint_id="47"/>
+        <neighbor waypoint_id="48"/>
+    </waypoint>
+    <waypoint x="2.4688799999999995" y="1.6459199999999998">
+        <neighbor waypoint_id="31"/>
+        <neighbor waypoint_id="32"/>
+        <neighbor waypoint_id="39"/>
+        <neighbor waypoint_id="47"/>
+        <neighbor waypoint_id="48"/>
+        <neighbor waypoint_id="49"/>
+    </waypoint>
+    <waypoint x="2.4688799999999995" y="6.583679999999999">
+        <neighbor waypoint_id="33"/>
+        <neighbor waypoint_id="34"/>
+        <neighbor waypoint_id="42"/>
+        <neighbor waypoint_id="59"/>
+        <neighbor waypoint_id="60"/>
+        <neighbor waypoint_id="61"/>
+    </waypoint>
+    <waypoint x="2.4688799999999995" y="6.995159999999999">
+        <neighbor waypoint_id="33"/>
+        <neighbor waypoint_id="34"/>
+        <neighbor waypoint_id="35"/>
+        <neighbor waypoint_id="41"/>
+        <neighbor waypoint_id="43"/>
+        <neighbor waypoint_id="60"/>
+        <neighbor waypoint_id="61"/>
+        <neighbor waypoint_id="62"/>
+    </waypoint>
+    <waypoint x="2.4688799999999995" y="7.4066399999999994">
+        <neighbor waypoint_id="34"/>
+        <neighbor waypoint_id="35"/>
+        <neighbor waypoint_id="36"/>
+        <neighbor waypoint_id="42"/>
+        <neighbor waypoint_id="44"/>
+        <neighbor waypoint_id="61"/>
+        <neighbor waypoint_id="62"/>
+        <neighbor waypoint_id="63"/>
+    </waypoint>
+    <waypoint x="2.4688799999999995" y="7.8181199999999995">
+        <neighbor waypoint_id="35"/>
+        <neighbor waypoint_id="36"/>
+        <neighbor waypoint_id="43"/>
+        <neighbor waypoint_id="62"/>
+        <neighbor waypoint_id="63"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="0.41147999999999996">
+        <neighbor waypoint_id="37"/>
+        <neighbor waypoint_id="38"/>
+        <neighbor waypoint_id="46"/>
+        <neighbor waypoint_id="64"/>
+        <neighbor waypoint_id="65"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="0.8229599999999999">
+        <neighbor waypoint_id="37"/>
+        <neighbor waypoint_id="38"/>
+        <neighbor waypoint_id="39"/>
+        <neighbor waypoint_id="45"/>
+        <neighbor waypoint_id="47"/>
+        <neighbor waypoint_id="64"/>
+        <neighbor waypoint_id="65"/>
+        <neighbor waypoint_id="66"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="1.2344399999999998">
+        <neighbor waypoint_id="38"/>
+        <neighbor waypoint_id="39"/>
+        <neighbor waypoint_id="40"/>
+        <neighbor waypoint_id="46"/>
+        <neighbor waypoint_id="48"/>
+        <neighbor waypoint_id="65"/>
+        <neighbor waypoint_id="66"/>
+        <neighbor waypoint_id="67"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="1.6459199999999998">
+        <neighbor waypoint_id="39"/>
+        <neighbor waypoint_id="40"/>
+        <neighbor waypoint_id="47"/>
+        <neighbor waypoint_id="49"/>
+        <neighbor waypoint_id="66"/>
+        <neighbor waypoint_id="67"/>
+        <neighbor waypoint_id="68"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="2.0574">
+        <neighbor waypoint_id="40"/>
+        <neighbor waypoint_id="48"/>
+        <neighbor waypoint_id="50"/>
+        <neighbor waypoint_id="67"/>
+        <neighbor waypoint_id="68"/>
+        <neighbor waypoint_id="69"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="2.4688799999999995">
+        <neighbor waypoint_id="49"/>
+        <neighbor waypoint_id="51"/>
+        <neighbor waypoint_id="68"/>
+        <neighbor waypoint_id="69"/>
+        <neighbor waypoint_id="70"/>
+        <neighbor waypoint_id="16"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="2.8803599999999996">
+        <neighbor waypoint_id="50"/>
+        <neighbor waypoint_id="52"/>
+        <neighbor waypoint_id="69"/>
+        <neighbor waypoint_id="70"/>
+        <neighbor waypoint_id="71"/>
+        <neighbor waypoint_id="17"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="3.2918399999999997">
+        <neighbor waypoint_id="51"/>
+        <neighbor waypoint_id="53"/>
+        <neighbor waypoint_id="70"/>
+        <neighbor waypoint_id="71"/>
+        <neighbor waypoint_id="72"/>
+        <neighbor waypoint_id="18"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="3.7033199999999997">
+        <neighbor waypoint_id="52"/>
+        <neighbor waypoint_id="54"/>
+        <neighbor waypoint_id="71"/>
+        <neighbor waypoint_id="72"/>
+        <neighbor waypoint_id="73"/>
+        <neighbor waypoint_id="19"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="4.1148">
+        <neighbor waypoint_id="53"/>
+        <neighbor waypoint_id="55"/>
+        <neighbor waypoint_id="72"/>
+        <neighbor waypoint_id="73"/>
+        <neighbor waypoint_id="74"/>
+        <neighbor waypoint_id="20"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="4.52628">
+        <neighbor waypoint_id="54"/>
+        <neighbor waypoint_id="56"/>
+        <neighbor waypoint_id="73"/>
+        <neighbor waypoint_id="74"/>
+        <neighbor waypoint_id="75"/>
+        <neighbor waypoint_id="21"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="4.937759999999999">
+        <neighbor waypoint_id="55"/>
+        <neighbor waypoint_id="57"/>
+        <neighbor waypoint_id="74"/>
+        <neighbor waypoint_id="75"/>
+        <neighbor waypoint_id="76"/>
+        <neighbor waypoint_id="22"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="5.349239999999999">
+        <neighbor waypoint_id="56"/>
+        <neighbor waypoint_id="58"/>
+        <neighbor waypoint_id="75"/>
+        <neighbor waypoint_id="76"/>
+        <neighbor waypoint_id="77"/>
+        <neighbor waypoint_id="23"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="5.760719999999999">
+        <neighbor waypoint_id="57"/>
+        <neighbor waypoint_id="59"/>
+        <neighbor waypoint_id="76"/>
+        <neighbor waypoint_id="77"/>
+        <neighbor waypoint_id="78"/>
+        <neighbor waypoint_id="24"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="6.172199999999999">
+        <neighbor waypoint_id="41"/>
+        <neighbor waypoint_id="58"/>
+        <neighbor waypoint_id="60"/>
+        <neighbor waypoint_id="77"/>
+        <neighbor waypoint_id="78"/>
+        <neighbor waypoint_id="79"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="6.583679999999999">
+        <neighbor waypoint_id="41"/>
+        <neighbor waypoint_id="42"/>
+        <neighbor waypoint_id="59"/>
+        <neighbor waypoint_id="61"/>
+        <neighbor waypoint_id="78"/>
+        <neighbor waypoint_id="79"/>
+        <neighbor waypoint_id="80"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="6.995159999999999">
+        <neighbor waypoint_id="41"/>
+        <neighbor waypoint_id="42"/>
+        <neighbor waypoint_id="43"/>
+        <neighbor waypoint_id="60"/>
+        <neighbor waypoint_id="62"/>
+        <neighbor waypoint_id="79"/>
+        <neighbor waypoint_id="80"/>
+        <neighbor waypoint_id="81"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="7.4066399999999994">
+        <neighbor waypoint_id="42"/>
+        <neighbor waypoint_id="43"/>
+        <neighbor waypoint_id="44"/>
+        <neighbor waypoint_id="61"/>
+        <neighbor waypoint_id="63"/>
+        <neighbor waypoint_id="80"/>
+        <neighbor waypoint_id="81"/>
+        <neighbor waypoint_id="82"/>
+    </waypoint>
+    <waypoint x="2.8803599999999996" y="7.8181199999999995">
+        <neighbor waypoint_id="43"/>
+        <neighbor waypoint_id="44"/>
+        <neighbor waypoint_id="62"/>
+        <neighbor waypoint_id="81"/>
+        <neighbor waypoint_id="82"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="0.41147999999999996">
+        <neighbor waypoint_id="45"/>
+        <neighbor waypoint_id="46"/>
+        <neighbor waypoint_id="65"/>
+        <neighbor waypoint_id="83"/>
+        <neighbor waypoint_id="84"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="0.8229599999999999">
+        <neighbor waypoint_id="45"/>
+        <neighbor waypoint_id="46"/>
+        <neighbor waypoint_id="47"/>
+        <neighbor waypoint_id="64"/>
+        <neighbor waypoint_id="66"/>
+        <neighbor waypoint_id="83"/>
+        <neighbor waypoint_id="84"/>
+        <neighbor waypoint_id="85"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="1.2344399999999998">
+        <neighbor waypoint_id="46"/>
+        <neighbor waypoint_id="47"/>
+        <neighbor waypoint_id="48"/>
+        <neighbor waypoint_id="65"/>
+        <neighbor waypoint_id="67"/>
+        <neighbor waypoint_id="84"/>
+        <neighbor waypoint_id="85"/>
+        <neighbor waypoint_id="86"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="1.6459199999999998">
+        <neighbor waypoint_id="47"/>
+        <neighbor waypoint_id="48"/>
+        <neighbor waypoint_id="49"/>
+        <neighbor waypoint_id="66"/>
+        <neighbor waypoint_id="68"/>
+        <neighbor waypoint_id="85"/>
+        <neighbor waypoint_id="86"/>
+        <neighbor waypoint_id="87"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="2.0574">
+        <neighbor waypoint_id="48"/>
+        <neighbor waypoint_id="49"/>
+        <neighbor waypoint_id="50"/>
+        <neighbor waypoint_id="67"/>
+        <neighbor waypoint_id="69"/>
+        <neighbor waypoint_id="86"/>
+        <neighbor waypoint_id="87"/>
+        <neighbor waypoint_id="88"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="2.4688799999999995">
+        <neighbor waypoint_id="49"/>
+        <neighbor waypoint_id="50"/>
+        <neighbor waypoint_id="51"/>
+        <neighbor waypoint_id="68"/>
+        <neighbor waypoint_id="70"/>
+        <neighbor waypoint_id="87"/>
+        <neighbor waypoint_id="88"/>
+        <neighbor waypoint_id="89"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="2.8803599999999996">
+        <neighbor waypoint_id="50"/>
+        <neighbor waypoint_id="51"/>
+        <neighbor waypoint_id="52"/>
+        <neighbor waypoint_id="69"/>
+        <neighbor waypoint_id="71"/>
+        <neighbor waypoint_id="88"/>
+        <neighbor waypoint_id="89"/>
+        <neighbor waypoint_id="90"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="3.2918399999999997">
+        <neighbor waypoint_id="51"/>
+        <neighbor waypoint_id="52"/>
+        <neighbor waypoint_id="53"/>
+        <neighbor waypoint_id="70"/>
+        <neighbor waypoint_id="72"/>
+        <neighbor waypoint_id="89"/>
+        <neighbor waypoint_id="90"/>
+        <neighbor waypoint_id="91"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="3.7033199999999997">
+        <neighbor waypoint_id="52"/>
+        <neighbor waypoint_id="53"/>
+        <neighbor waypoint_id="54"/>
+        <neighbor waypoint_id="71"/>
+        <neighbor waypoint_id="73"/>
+        <neighbor waypoint_id="90"/>
+        <neighbor waypoint_id="91"/>
+        <neighbor waypoint_id="92"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="4.1148">
+        <neighbor waypoint_id="53"/>
+        <neighbor waypoint_id="54"/>
+        <neighbor waypoint_id="55"/>
+        <neighbor waypoint_id="72"/>
+        <neighbor waypoint_id="74"/>
+        <neighbor waypoint_id="91"/>
+        <neighbor waypoint_id="92"/>
+        <neighbor waypoint_id="93"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="4.52628">
+        <neighbor waypoint_id="54"/>
+        <neighbor waypoint_id="55"/>
+        <neighbor waypoint_id="56"/>
+        <neighbor waypoint_id="73"/>
+        <neighbor waypoint_id="75"/>
+        <neighbor waypoint_id="92"/>
+        <neighbor waypoint_id="93"/>
+        <neighbor waypoint_id="94"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="4.937759999999999">
+        <neighbor waypoint_id="55"/>
+        <neighbor waypoint_id="56"/>
+        <neighbor waypoint_id="57"/>
+        <neighbor waypoint_id="74"/>
+        <neighbor waypoint_id="76"/>
+        <neighbor waypoint_id="93"/>
+        <neighbor waypoint_id="94"/>
+        <neighbor waypoint_id="95"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="5.349239999999999">
+        <neighbor waypoint_id="56"/>
+        <neighbor waypoint_id="57"/>
+        <neighbor waypoint_id="58"/>
+        <neighbor waypoint_id="75"/>
+        <neighbor waypoint_id="77"/>
+        <neighbor waypoint_id="94"/>
+        <neighbor waypoint_id="95"/>
+        <neighbor waypoint_id="96"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="5.760719999999999">
+        <neighbor waypoint_id="57"/>
+        <neighbor waypoint_id="58"/>
+        <neighbor waypoint_id="59"/>
+        <neighbor waypoint_id="76"/>
+        <neighbor waypoint_id="78"/>
+        <neighbor waypoint_id="95"/>
+        <neighbor waypoint_id="96"/>
+        <neighbor waypoint_id="97"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="6.172199999999999">
+        <neighbor waypoint_id="58"/>
+        <neighbor waypoint_id="59"/>
+        <neighbor waypoint_id="60"/>
+        <neighbor waypoint_id="77"/>
+        <neighbor waypoint_id="79"/>
+        <neighbor waypoint_id="96"/>
+        <neighbor waypoint_id="97"/>
+        <neighbor waypoint_id="98"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="6.583679999999999">
+        <neighbor waypoint_id="59"/>
+        <neighbor waypoint_id="60"/>
+        <neighbor waypoint_id="61"/>
+        <neighbor waypoint_id="78"/>
+        <neighbor waypoint_id="80"/>
+        <neighbor waypoint_id="97"/>
+        <neighbor waypoint_id="98"/>
+        <neighbor waypoint_id="99"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="6.995159999999999">
+        <neighbor waypoint_id="60"/>
+        <neighbor waypoint_id="61"/>
+        <neighbor waypoint_id="62"/>
+        <neighbor waypoint_id="79"/>
+        <neighbor waypoint_id="81"/>
+        <neighbor waypoint_id="98"/>
+        <neighbor waypoint_id="99"/>
+        <neighbor waypoint_id="100"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="7.4066399999999994">
+        <neighbor waypoint_id="61"/>
+        <neighbor waypoint_id="62"/>
+        <neighbor waypoint_id="63"/>
+        <neighbor waypoint_id="80"/>
+        <neighbor waypoint_id="82"/>
+        <neighbor waypoint_id="99"/>
+        <neighbor waypoint_id="100"/>
+        <neighbor waypoint_id="101"/>
+    </waypoint>
+    <waypoint x="3.2918399999999997" y="7.8181199999999995">
+        <neighbor waypoint_id="62"/>
+        <neighbor waypoint_id="63"/>
+        <neighbor waypoint_id="81"/>
+        <neighbor waypoint_id="100"/>
+        <neighbor waypoint_id="101"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="0.41147999999999996">
+        <neighbor waypoint_id="64"/>
+        <neighbor waypoint_id="65"/>
+        <neighbor waypoint_id="84"/>
+        <neighbor waypoint_id="102"/>
+        <neighbor waypoint_id="103"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="0.8229599999999999">
+        <neighbor waypoint_id="64"/>
+        <neighbor waypoint_id="65"/>
+        <neighbor waypoint_id="66"/>
+        <neighbor waypoint_id="83"/>
+        <neighbor waypoint_id="85"/>
+        <neighbor waypoint_id="102"/>
+        <neighbor waypoint_id="103"/>
+        <neighbor waypoint_id="104"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="1.2344399999999998">
+        <neighbor waypoint_id="65"/>
+        <neighbor waypoint_id="66"/>
+        <neighbor waypoint_id="67"/>
+        <neighbor waypoint_id="84"/>
+        <neighbor waypoint_id="86"/>
+        <neighbor waypoint_id="103"/>
+        <neighbor waypoint_id="104"/>
+        <neighbor waypoint_id="105"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="1.6459199999999998">
+        <neighbor waypoint_id="66"/>
+        <neighbor waypoint_id="67"/>
+        <neighbor waypoint_id="68"/>
+        <neighbor waypoint_id="85"/>
+        <neighbor waypoint_id="87"/>
+        <neighbor waypoint_id="104"/>
+        <neighbor waypoint_id="105"/>
+        <neighbor waypoint_id="106"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="2.0574">
+        <neighbor waypoint_id="67"/>
+        <neighbor waypoint_id="68"/>
+        <neighbor waypoint_id="69"/>
+        <neighbor waypoint_id="86"/>
+        <neighbor waypoint_id="88"/>
+        <neighbor waypoint_id="105"/>
+        <neighbor waypoint_id="106"/>
+        <neighbor waypoint_id="107"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="2.4688799999999995">
+        <neighbor waypoint_id="68"/>
+        <neighbor waypoint_id="69"/>
+        <neighbor waypoint_id="70"/>
+        <neighbor waypoint_id="87"/>
+        <neighbor waypoint_id="89"/>
+        <neighbor waypoint_id="106"/>
+        <neighbor waypoint_id="107"/>
+        <neighbor waypoint_id="108"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="2.8803599999999996">
+        <neighbor waypoint_id="69"/>
+        <neighbor waypoint_id="70"/>
+        <neighbor waypoint_id="71"/>
+        <neighbor waypoint_id="88"/>
+        <neighbor waypoint_id="90"/>
+        <neighbor waypoint_id="107"/>
+        <neighbor waypoint_id="108"/>
+        <neighbor waypoint_id="109"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="3.2918399999999997">
+        <neighbor waypoint_id="70"/>
+        <neighbor waypoint_id="71"/>
+        <neighbor waypoint_id="72"/>
+        <neighbor waypoint_id="89"/>
+        <neighbor waypoint_id="91"/>
+        <neighbor waypoint_id="108"/>
+        <neighbor waypoint_id="109"/>
+        <neighbor waypoint_id="110"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="3.7033199999999997">
+        <neighbor waypoint_id="71"/>
+        <neighbor waypoint_id="72"/>
+        <neighbor waypoint_id="73"/>
+        <neighbor waypoint_id="90"/>
+        <neighbor waypoint_id="92"/>
+        <neighbor waypoint_id="109"/>
+        <neighbor waypoint_id="110"/>
+        <neighbor waypoint_id="111"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="4.1148">
+        <neighbor waypoint_id="72"/>
+        <neighbor waypoint_id="73"/>
+        <neighbor waypoint_id="74"/>
+        <neighbor waypoint_id="91"/>
+        <neighbor waypoint_id="93"/>
+        <neighbor waypoint_id="110"/>
+        <neighbor waypoint_id="111"/>
+        <neighbor waypoint_id="112"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="4.52628">
+        <neighbor waypoint_id="73"/>
+        <neighbor waypoint_id="74"/>
+        <neighbor waypoint_id="75"/>
+        <neighbor waypoint_id="92"/>
+        <neighbor waypoint_id="94"/>
+        <neighbor waypoint_id="111"/>
+        <neighbor waypoint_id="112"/>
+        <neighbor waypoint_id="113"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="4.937759999999999">
+        <neighbor waypoint_id="74"/>
+        <neighbor waypoint_id="75"/>
+        <neighbor waypoint_id="76"/>
+        <neighbor waypoint_id="93"/>
+        <neighbor waypoint_id="95"/>
+        <neighbor waypoint_id="112"/>
+        <neighbor waypoint_id="113"/>
+        <neighbor waypoint_id="114"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="5.349239999999999">
+        <neighbor waypoint_id="75"/>
+        <neighbor waypoint_id="76"/>
+        <neighbor waypoint_id="77"/>
+        <neighbor waypoint_id="94"/>
+        <neighbor waypoint_id="96"/>
+        <neighbor waypoint_id="113"/>
+        <neighbor waypoint_id="114"/>
+        <neighbor waypoint_id="115"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="5.760719999999999">
+        <neighbor waypoint_id="76"/>
+        <neighbor waypoint_id="77"/>
+        <neighbor waypoint_id="78"/>
+        <neighbor waypoint_id="95"/>
+        <neighbor waypoint_id="97"/>
+        <neighbor waypoint_id="114"/>
+        <neighbor waypoint_id="115"/>
+        <neighbor waypoint_id="116"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="6.172199999999999">
+        <neighbor waypoint_id="77"/>
+        <neighbor waypoint_id="78"/>
+        <neighbor waypoint_id="79"/>
+        <neighbor waypoint_id="96"/>
+        <neighbor waypoint_id="98"/>
+        <neighbor waypoint_id="115"/>
+        <neighbor waypoint_id="116"/>
+        <neighbor waypoint_id="117"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="6.583679999999999">
+        <neighbor waypoint_id="78"/>
+        <neighbor waypoint_id="79"/>
+        <neighbor waypoint_id="80"/>
+        <neighbor waypoint_id="97"/>
+        <neighbor waypoint_id="99"/>
+        <neighbor waypoint_id="116"/>
+        <neighbor waypoint_id="117"/>
+        <neighbor waypoint_id="118"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="6.995159999999999">
+        <neighbor waypoint_id="79"/>
+        <neighbor waypoint_id="80"/>
+        <neighbor waypoint_id="81"/>
+        <neighbor waypoint_id="98"/>
+        <neighbor waypoint_id="100"/>
+        <neighbor waypoint_id="117"/>
+        <neighbor waypoint_id="118"/>
+        <neighbor waypoint_id="119"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="7.4066399999999994">
+        <neighbor waypoint_id="80"/>
+        <neighbor waypoint_id="81"/>
+        <neighbor waypoint_id="82"/>
+        <neighbor waypoint_id="99"/>
+        <neighbor waypoint_id="101"/>
+        <neighbor waypoint_id="118"/>
+        <neighbor waypoint_id="119"/>
+        <neighbor waypoint_id="120"/>
+    </waypoint>
+    <waypoint x="3.7033199999999997" y="7.8181199999999995">
+        <neighbor waypoint_id="81"/>
+        <neighbor waypoint_id="82"/>
+        <neighbor waypoint_id="100"/>
+        <neighbor waypoint_id="119"/>
+        <neighbor waypoint_id="120"/>
+    </waypoint>
+    <waypoint x="4.1148" y="0.41147999999999996">
+        <neighbor waypoint_id="83"/>
+        <neighbor waypoint_id="84"/>
+        <neighbor waypoint_id="103"/>
+        <neighbor waypoint_id="121"/>
+        <neighbor waypoint_id="122"/>
+    </waypoint>
+    <waypoint x="4.1148" y="0.8229599999999999">
+        <neighbor waypoint_id="83"/>
+        <neighbor waypoint_id="84"/>
+        <neighbor waypoint_id="85"/>
+        <neighbor waypoint_id="102"/>
+        <neighbor waypoint_id="104"/>
+        <neighbor waypoint_id="121"/>
+        <neighbor waypoint_id="122"/>
+        <neighbor waypoint_id="123"/>
+    </waypoint>
+    <waypoint x="4.1148" y="1.2344399999999998">
+        <neighbor waypoint_id="84"/>
+        <neighbor waypoint_id="85"/>
+        <neighbor waypoint_id="86"/>
+        <neighbor waypoint_id="103"/>
+        <neighbor waypoint_id="105"/>
+        <neighbor waypoint_id="122"/>
+        <neighbor waypoint_id="123"/>
+        <neighbor waypoint_id="124"/>
+    </waypoint>
+    <waypoint x="4.1148" y="1.6459199999999998">
+        <neighbor waypoint_id="85"/>
+        <neighbor waypoint_id="86"/>
+        <neighbor waypoint_id="87"/>
+        <neighbor waypoint_id="104"/>
+        <neighbor waypoint_id="106"/>
+        <neighbor waypoint_id="123"/>
+        <neighbor waypoint_id="124"/>
+        <neighbor waypoint_id="125"/>
+    </waypoint>
+    <waypoint x="4.1148" y="2.0574">
+        <neighbor waypoint_id="86"/>
+        <neighbor waypoint_id="87"/>
+        <neighbor waypoint_id="88"/>
+        <neighbor waypoint_id="105"/>
+        <neighbor waypoint_id="107"/>
+        <neighbor waypoint_id="124"/>
+        <neighbor waypoint_id="125"/>
+        <neighbor waypoint_id="126"/>
+    </waypoint>
+    <waypoint x="4.1148" y="2.4688799999999995">
+        <neighbor waypoint_id="87"/>
+        <neighbor waypoint_id="88"/>
+        <neighbor waypoint_id="89"/>
+        <neighbor waypoint_id="106"/>
+        <neighbor waypoint_id="108"/>
+        <neighbor waypoint_id="125"/>
+        <neighbor waypoint_id="126"/>
+        <neighbor waypoint_id="127"/>
+    </waypoint>
+    <waypoint x="4.1148" y="2.8803599999999996">
+        <neighbor waypoint_id="88"/>
+        <neighbor waypoint_id="89"/>
+        <neighbor waypoint_id="90"/>
+        <neighbor waypoint_id="107"/>
+        <neighbor waypoint_id="109"/>
+        <neighbor waypoint_id="126"/>
+        <neighbor waypoint_id="127"/>
+        <neighbor waypoint_id="128"/>
+    </waypoint>
+    <waypoint x="4.1148" y="3.2918399999999997">
+        <neighbor waypoint_id="89"/>
+        <neighbor waypoint_id="90"/>
+        <neighbor waypoint_id="91"/>
+        <neighbor waypoint_id="108"/>
+        <neighbor waypoint_id="110"/>
+        <neighbor waypoint_id="127"/>
+        <neighbor waypoint_id="128"/>
+        <neighbor waypoint_id="129"/>
+    </waypoint>
+    <waypoint x="4.1148" y="3.7033199999999997">
+        <neighbor waypoint_id="90"/>
+        <neighbor waypoint_id="91"/>
+        <neighbor waypoint_id="92"/>
+        <neighbor waypoint_id="109"/>
+        <neighbor waypoint_id="111"/>
+        <neighbor waypoint_id="128"/>
+        <neighbor waypoint_id="129"/>
+        <neighbor waypoint_id="130"/>
+    </waypoint>
+    <waypoint x="4.1148" y="4.1148">
+        <neighbor waypoint_id="91"/>
+        <neighbor waypoint_id="92"/>
+        <neighbor waypoint_id="93"/>
+        <neighbor waypoint_id="110"/>
+        <neighbor waypoint_id="112"/>
+        <neighbor waypoint_id="129"/>
+        <neighbor waypoint_id="130"/>
+        <neighbor waypoint_id="131"/>
+    </waypoint>
+    <waypoint x="4.1148" y="4.52628">
+        <neighbor waypoint_id="92"/>
+        <neighbor waypoint_id="93"/>
+        <neighbor waypoint_id="94"/>
+        <neighbor waypoint_id="111"/>
+        <neighbor waypoint_id="113"/>
+        <neighbor waypoint_id="130"/>
+        <neighbor waypoint_id="131"/>
+        <neighbor waypoint_id="132"/>
+    </waypoint>
+    <waypoint x="4.1148" y="4.937759999999999">
+        <neighbor waypoint_id="93"/>
+        <neighbor waypoint_id="94"/>
+        <neighbor waypoint_id="95"/>
+        <neighbor waypoint_id="112"/>
+        <neighbor waypoint_id="114"/>
+        <neighbor waypoint_id="131"/>
+        <neighbor waypoint_id="132"/>
+        <neighbor waypoint_id="133"/>
+    </waypoint>
+    <waypoint x="4.1148" y="5.349239999999999">
+        <neighbor waypoint_id="94"/>
+        <neighbor waypoint_id="95"/>
+        <neighbor waypoint_id="96"/>
+        <neighbor waypoint_id="113"/>
+        <neighbor waypoint_id="115"/>
+        <neighbor waypoint_id="132"/>
+        <neighbor waypoint_id="133"/>
+        <neighbor waypoint_id="134"/>
+    </waypoint>
+    <waypoint x="4.1148" y="5.760719999999999">
+        <neighbor waypoint_id="95"/>
+        <neighbor waypoint_id="96"/>
+        <neighbor waypoint_id="97"/>
+        <neighbor waypoint_id="114"/>
+        <neighbor waypoint_id="116"/>
+        <neighbor waypoint_id="133"/>
+        <neighbor waypoint_id="134"/>
+        <neighbor waypoint_id="135"/>
+    </waypoint>
+    <waypoint x="4.1148" y="6.172199999999999">
+        <neighbor waypoint_id="96"/>
+        <neighbor waypoint_id="97"/>
+        <neighbor waypoint_id="98"/>
+        <neighbor waypoint_id="115"/>
+        <neighbor waypoint_id="117"/>
+        <neighbor waypoint_id="134"/>
+        <neighbor waypoint_id="135"/>
+        <neighbor waypoint_id="136"/>
+    </waypoint>
+    <waypoint x="4.1148" y="6.583679999999999">
+        <neighbor waypoint_id="97"/>
+        <neighbor waypoint_id="98"/>
+        <neighbor waypoint_id="99"/>
+        <neighbor waypoint_id="116"/>
+        <neighbor waypoint_id="118"/>
+        <neighbor waypoint_id="135"/>
+        <neighbor waypoint_id="136"/>
+        <neighbor waypoint_id="137"/>
+    </waypoint>
+    <waypoint x="4.1148" y="6.995159999999999">
+        <neighbor waypoint_id="98"/>
+        <neighbor waypoint_id="99"/>
+        <neighbor waypoint_id="100"/>
+        <neighbor waypoint_id="117"/>
+        <neighbor waypoint_id="119"/>
+        <neighbor waypoint_id="136"/>
+        <neighbor waypoint_id="137"/>
+        <neighbor waypoint_id="138"/>
+    </waypoint>
+    <waypoint x="4.1148" y="7.4066399999999994">
+        <neighbor waypoint_id="99"/>
+        <neighbor waypoint_id="100"/>
+        <neighbor waypoint_id="101"/>
+        <neighbor waypoint_id="118"/>
+        <neighbor waypoint_id="120"/>
+        <neighbor waypoint_id="137"/>
+        <neighbor waypoint_id="138"/>
+        <neighbor waypoint_id="139"/>
+    </waypoint>
+    <waypoint x="4.1148" y="7.8181199999999995">
+        <neighbor waypoint_id="100"/>
+        <neighbor waypoint_id="101"/>
+        <neighbor waypoint_id="119"/>
+        <neighbor waypoint_id="138"/>
+        <neighbor waypoint_id="139"/>
+    </waypoint>
+    <waypoint x="4.52628" y="0.41147999999999996">
+        <neighbor waypoint_id="102"/>
+        <neighbor waypoint_id="103"/>
+        <neighbor waypoint_id="122"/>
+        <neighbor waypoint_id="226"/>
+    </waypoint>
+    <waypoint x="4.52628" y="0.8229599999999999">
+        <neighbor waypoint_id="102"/>
+        <neighbor waypoint_id="103"/>
+        <neighbor waypoint_id="104"/>
+        <neighbor waypoint_id="121"/>
+        <neighbor waypoint_id="123"/>
+        <neighbor waypoint_id="140"/>
+        <neighbor waypoint_id="226"/>
+    </waypoint>
+    <waypoint x="4.52628" y="1.2344399999999998">
+        <neighbor waypoint_id="103"/>
+        <neighbor waypoint_id="104"/>
+        <neighbor waypoint_id="105"/>
+        <neighbor waypoint_id="122"/>
+        <neighbor waypoint_id="124"/>
+        <neighbor waypoint_id="140"/>
+        <neighbor waypoint_id="141"/>
+        <neighbor waypoint_id="226"/>
+    </waypoint>
+    <waypoint x="4.52628" y="1.6459199999999998">
+        <neighbor waypoint_id="104"/>
+        <neighbor waypoint_id="105"/>
+        <neighbor waypoint_id="106"/>
+        <neighbor waypoint_id="123"/>
+        <neighbor waypoint_id="125"/>
+        <neighbor waypoint_id="140"/>
+        <neighbor waypoint_id="141"/>
+        <neighbor waypoint_id="142"/>
+    </waypoint>
+    <waypoint x="4.52628" y="2.0574">
+        <neighbor waypoint_id="105"/>
+        <neighbor waypoint_id="106"/>
+        <neighbor waypoint_id="107"/>
+        <neighbor waypoint_id="124"/>
+        <neighbor waypoint_id="126"/>
+        <neighbor waypoint_id="141"/>
+        <neighbor waypoint_id="142"/>
+        <neighbor waypoint_id="143"/>
+    </waypoint>
+    <waypoint x="4.52628" y="2.4688799999999995">
+        <neighbor waypoint_id="106"/>
+        <neighbor waypoint_id="107"/>
+        <neighbor waypoint_id="108"/>
+        <neighbor waypoint_id="125"/>
+        <neighbor waypoint_id="127"/>
+        <neighbor waypoint_id="142"/>
+        <neighbor waypoint_id="143"/>
+        <neighbor waypoint_id="144"/>
+    </waypoint>
+    <waypoint x="4.52628" y="2.8803599999999996">
+        <neighbor waypoint_id="107"/>
+        <neighbor waypoint_id="108"/>
+        <neighbor waypoint_id="109"/>
+        <neighbor waypoint_id="126"/>
+        <neighbor waypoint_id="128"/>
+        <neighbor waypoint_id="143"/>
+        <neighbor waypoint_id="144"/>
+        <neighbor waypoint_id="145"/>
+    </waypoint>
+    <waypoint x="4.52628" y="3.2918399999999997">
+        <neighbor waypoint_id="108"/>
+        <neighbor waypoint_id="109"/>
+        <neighbor waypoint_id="110"/>
+        <neighbor waypoint_id="127"/>
+        <neighbor waypoint_id="129"/>
+        <neighbor waypoint_id="144"/>
+        <neighbor waypoint_id="145"/>
+    </waypoint>
+    <waypoint x="4.52628" y="3.7033199999999997">
+        <neighbor waypoint_id="109"/>
+        <neighbor waypoint_id="110"/>
+        <neighbor waypoint_id="111"/>
+        <neighbor waypoint_id="128"/>
+        <neighbor waypoint_id="130"/>
+        <neighbor waypoint_id="145"/>
+        <neighbor waypoint_id="227"/>
+    </waypoint>
+    <waypoint x="4.52628" y="4.1148">
+        <neighbor waypoint_id="110"/>
+        <neighbor waypoint_id="111"/>
+        <neighbor waypoint_id="112"/>
+        <neighbor waypoint_id="129"/>
+        <neighbor waypoint_id="131"/>
+        <neighbor waypoint_id="227"/>
+    </waypoint>
+    <waypoint x="4.52628" y="4.52628">
+        <neighbor waypoint_id="111"/>
+        <neighbor waypoint_id="112"/>
+        <neighbor waypoint_id="113"/>
+        <neighbor waypoint_id="130"/>
+        <neighbor waypoint_id="132"/>
+        <neighbor waypoint_id="146"/>
+        <neighbor waypoint_id="228"/>
+    </waypoint>
+    <waypoint x="4.52628" y="4.937759999999999">
+        <neighbor waypoint_id="112"/>
+        <neighbor waypoint_id="113"/>
+        <neighbor waypoint_id="114"/>
+        <neighbor waypoint_id="131"/>
+        <neighbor waypoint_id="133"/>
+        <neighbor waypoint_id="146"/>
+        <neighbor waypoint_id="147"/>
+    </waypoint>
+    <waypoint x="4.52628" y="5.349239999999999">
+        <neighbor waypoint_id="113"/>
+        <neighbor waypoint_id="114"/>
+        <neighbor waypoint_id="115"/>
+        <neighbor waypoint_id="132"/>
+        <neighbor waypoint_id="134"/>
+        <neighbor waypoint_id="146"/>
+        <neighbor waypoint_id="147"/>
+        <neighbor waypoint_id="148"/>
+    </waypoint>
+    <waypoint x="4.52628" y="5.760719999999999">
+        <neighbor waypoint_id="114"/>
+        <neighbor waypoint_id="115"/>
+        <neighbor waypoint_id="116"/>
+        <neighbor waypoint_id="133"/>
+        <neighbor waypoint_id="135"/>
+        <neighbor waypoint_id="147"/>
+        <neighbor waypoint_id="148"/>
+        <neighbor waypoint_id="149"/>
+    </waypoint>
+    <waypoint x="4.52628" y="6.172199999999999">
+        <neighbor waypoint_id="115"/>
+        <neighbor waypoint_id="116"/>
+        <neighbor waypoint_id="117"/>
+        <neighbor waypoint_id="134"/>
+        <neighbor waypoint_id="136"/>
+        <neighbor waypoint_id="148"/>
+        <neighbor waypoint_id="149"/>
+        <neighbor waypoint_id="150"/>
+    </waypoint>
+    <waypoint x="4.52628" y="6.583679999999999">
+        <neighbor waypoint_id="116"/>
+        <neighbor waypoint_id="117"/>
+        <neighbor waypoint_id="118"/>
+        <neighbor waypoint_id="135"/>
+        <neighbor waypoint_id="137"/>
+        <neighbor waypoint_id="149"/>
+        <neighbor waypoint_id="150"/>
+        <neighbor waypoint_id="151"/>
+    </waypoint>
+    <waypoint x="4.52628" y="6.995159999999999">
+        <neighbor waypoint_id="117"/>
+        <neighbor waypoint_id="118"/>
+        <neighbor waypoint_id="119"/>
+        <neighbor waypoint_id="136"/>
+        <neighbor waypoint_id="138"/>
+        <neighbor waypoint_id="150"/>
+        <neighbor waypoint_id="151"/>
+        <neighbor waypoint_id="152"/>
+    </waypoint>
+    <waypoint x="4.52628" y="7.4066399999999994">
+        <neighbor waypoint_id="118"/>
+        <neighbor waypoint_id="119"/>
+        <neighbor waypoint_id="120"/>
+        <neighbor waypoint_id="137"/>
+        <neighbor waypoint_id="139"/>
+        <neighbor waypoint_id="151"/>
+        <neighbor waypoint_id="152"/>
+    </waypoint>
+    <waypoint x="4.52628" y="7.8181199999999995">
+        <neighbor waypoint_id="119"/>
+        <neighbor waypoint_id="120"/>
+        <neighbor waypoint_id="138"/>
+        <neighbor waypoint_id="152"/>
+    </waypoint>
+    <waypoint x="4.937759999999999" y="1.2344399999999998">
+        <neighbor waypoint_id="122"/>
+        <neighbor waypoint_id="123"/>
+        <neighbor waypoint_id="124"/>
+        <neighbor waypoint_id="141"/>
+        <neighbor waypoint_id="153"/>
+        <neighbor waypoint_id="226"/>
+    </waypoint>
+    <waypoint x="4.937759999999999" y="1.6459199999999998">
+        <neighbor waypoint_id="123"/>
+        <neighbor waypoint_id="124"/>
+        <neighbor waypoint_id="125"/>
+        <neighbor waypoint_id="140"/>
+        <neighbor waypoint_id="142"/>
+        <neighbor waypoint_id="153"/>
+        <neighbor waypoint_id="154"/>
+    </waypoint>
+    <waypoint x="4.937759999999999" y="2.0574">
+        <neighbor waypoint_id="124"/>
+        <neighbor waypoint_id="125"/>
+        <neighbor waypoint_id="126"/>
+        <neighbor waypoint_id="141"/>
+        <neighbor waypoint_id="143"/>
+        <neighbor waypoint_id="153"/>
+        <neighbor waypoint_id="154"/>
+        <neighbor waypoint_id="155"/>
+    </waypoint>
+    <waypoint x="4.937759999999999" y="2.4688799999999995">
+        <neighbor waypoint_id="125"/>
+        <neighbor waypoint_id="126"/>
+        <neighbor waypoint_id="127"/>
+        <neighbor waypoint_id="142"/>
+        <neighbor waypoint_id="144"/>
+        <neighbor waypoint_id="154"/>
+        <neighbor waypoint_id="155"/>
+        <neighbor waypoint_id="156"/>
+    </waypoint>
+    <waypoint x="4.937759999999999" y="2.8803599999999996">
+        <neighbor waypoint_id="126"/>
+        <neighbor waypoint_id="127"/>
+        <neighbor waypoint_id="128"/>
+        <neighbor waypoint_id="143"/>
+        <neighbor waypoint_id="145"/>
+        <neighbor waypoint_id="155"/>
+        <neighbor waypoint_id="156"/>
+    </waypoint>
+    <waypoint x="4.937759999999999" y="3.2918399999999997">
+        <neighbor waypoint_id="127"/>
+        <neighbor waypoint_id="128"/>
+        <neighbor waypoint_id="129"/>
+        <neighbor waypoint_id="144"/>
+        <neighbor waypoint_id="156"/>
+    </waypoint>
+    <waypoint x="4.937759999999999" y="4.937759999999999">
+        <neighbor waypoint_id="131"/>
+        <neighbor waypoint_id="132"/>
+        <neighbor waypoint_id="133"/>
+        <neighbor waypoint_id="147"/>
+        <neighbor waypoint_id="157"/>
+        <neighbor waypoint_id="228"/>
+    </waypoint>
+    <waypoint x="4.937759999999999" y="5.349239999999999">
+        <neighbor waypoint_id="132"/>
+        <neighbor waypoint_id="133"/>
+        <neighbor waypoint_id="134"/>
+        <neighbor waypoint_id="146"/>
+        <neighbor waypoint_id="148"/>
+        <neighbor waypoint_id="157"/>
+        <neighbor waypoint_id="158"/>
+    </waypoint>
+    <waypoint x="4.937759999999999" y="5.760719999999999">
+        <neighbor waypoint_id="133"/>
+        <neighbor waypoint_id="134"/>
+        <neighbor waypoint_id="135"/>
+        <neighbor waypoint_id="147"/>
+        <neighbor waypoint_id="149"/>
+        <neighbor waypoint_id="157"/>
+        <neighbor waypoint_id="158"/>
+        <neighbor waypoint_id="159"/>
+    </waypoint>
+    <waypoint x="4.937759999999999" y="6.172199999999999">
+        <neighbor waypoint_id="134"/>
+        <neighbor waypoint_id="135"/>
+        <neighbor waypoint_id="136"/>
+        <neighbor waypoint_id="148"/>
+        <neighbor waypoint_id="150"/>
+        <neighbor waypoint_id="158"/>
+        <neighbor waypoint_id="159"/>
+        <neighbor waypoint_id="160"/>
+    </waypoint>
+    <waypoint x="4.937759999999999" y="6.583679999999999">
+        <neighbor waypoint_id="135"/>
+        <neighbor waypoint_id="136"/>
+        <neighbor waypoint_id="137"/>
+        <neighbor waypoint_id="149"/>
+        <neighbor waypoint_id="151"/>
+        <neighbor waypoint_id="159"/>
+        <neighbor waypoint_id="160"/>
+    </waypoint>
+    <waypoint x="4.937759999999999" y="6.995159999999999">
+        <neighbor waypoint_id="136"/>
+        <neighbor waypoint_id="137"/>
+        <neighbor waypoint_id="138"/>
+        <neighbor waypoint_id="150"/>
+        <neighbor waypoint_id="152"/>
+        <neighbor waypoint_id="160"/>
+    </waypoint>
+    <waypoint x="5.034625781815599" y="7.577554670370765">
+        <neighbor waypoint_id="137"/>
+        <neighbor waypoint_id="138"/>
+        <neighbor waypoint_id="139"/>
+        <neighbor waypoint_id="151"/>
+    </waypoint>
+    <target name="Right Rocket Hatch Front" waypoint_id="152"/>
+    <waypoint x="5.349239999999999" y="1.6459199999999998">
+        <neighbor waypoint_id="140"/>
+        <neighbor waypoint_id="141"/>
+        <neighbor waypoint_id="142"/>
+        <neighbor waypoint_id="154"/>
+        <neighbor waypoint_id="161"/>
+        <neighbor waypoint_id="162"/>
+        <neighbor waypoint_id="163"/>
+    </waypoint>
+    <waypoint x="5.349239999999999" y="2.0574">
+        <neighbor waypoint_id="141"/>
+        <neighbor waypoint_id="142"/>
+        <neighbor waypoint_id="143"/>
+        <neighbor waypoint_id="153"/>
+        <neighbor waypoint_id="155"/>
+        <neighbor waypoint_id="162"/>
+        <neighbor waypoint_id="163"/>
+        <neighbor waypoint_id="164"/>
+    </waypoint>
+    <waypoint x="5.349239999999999" y="2.4688799999999995">
+        <neighbor waypoint_id="142"/>
+        <neighbor waypoint_id="143"/>
+        <neighbor waypoint_id="144"/>
+        <neighbor waypoint_id="154"/>
+        <neighbor waypoint_id="156"/>
+        <neighbor waypoint_id="163"/>
+        <neighbor waypoint_id="164"/>
+        <neighbor waypoint_id="165"/>
+    </waypoint>
+    <waypoint x="5.349239999999999" y="2.8803599999999996">
+        <neighbor waypoint_id="143"/>
+        <neighbor waypoint_id="144"/>
+        <neighbor waypoint_id="145"/>
+        <neighbor waypoint_id="155"/>
+        <neighbor waypoint_id="164"/>
+        <neighbor waypoint_id="165"/>
+    </waypoint>
+    <waypoint x="5.349239999999999" y="5.349239999999999">
+        <neighbor waypoint_id="146"/>
+        <neighbor waypoint_id="147"/>
+        <neighbor waypoint_id="148"/>
+        <neighbor waypoint_id="158"/>
+        <neighbor waypoint_id="166"/>
+        <neighbor waypoint_id="167"/>
+    </waypoint>
+    <waypoint x="5.349239999999999" y="5.760719999999999">
+        <neighbor waypoint_id="147"/>
+        <neighbor waypoint_id="148"/>
+        <neighbor waypoint_id="149"/>
+        <neighbor waypoint_id="157"/>
+        <neighbor waypoint_id="159"/>
+        <neighbor waypoint_id="166"/>
+        <neighbor waypoint_id="167"/>
+        <neighbor waypoint_id="168"/>
+    </waypoint>
+    <waypoint x="5.349239999999999" y="6.172199999999999">
+        <neighbor waypoint_id="148"/>
+        <neighbor waypoint_id="149"/>
+        <neighbor waypoint_id="150"/>
+        <neighbor waypoint_id="158"/>
+        <neighbor waypoint_id="160"/>
+        <neighbor waypoint_id="167"/>
+        <neighbor waypoint_id="168"/>
+        <neighbor waypoint_id="169"/>
+    </waypoint>
+    <waypoint x="5.349239999999999" y="6.583679999999999">
+        <neighbor waypoint_id="149"/>
+        <neighbor waypoint_id="150"/>
+        <neighbor waypoint_id="151"/>
+        <neighbor waypoint_id="159"/>
+        <neighbor waypoint_id="168"/>
+        <neighbor waypoint_id="169"/>
+        <neighbor waypoint_id="170"/>
+    </waypoint>
+    <waypoint x="5.760719999999999" y="1.1917113324073083">
+        <neighbor waypoint_id="153"/>
+        <neighbor waypoint_id="162"/>
+        <neighbor waypoint_id="171"/>
+    </waypoint>
+    <target name="Left Rocket Cargo" waypoint_id="161"/>
+    <waypoint x="5.760719999999999" y="1.6459199999999998">
+        <neighbor waypoint_id="153"/>
+        <neighbor waypoint_id="154"/>
+        <neighbor waypoint_id="161"/>
+        <neighbor waypoint_id="163"/>
+        <neighbor waypoint_id="171"/>
+        <neighbor waypoint_id="172"/>
+    </waypoint>
+    <waypoint x="5.760719999999999" y="2.0574">
+        <neighbor waypoint_id="153"/>
+        <neighbor waypoint_id="154"/>
+        <neighbor waypoint_id="155"/>
+        <neighbor waypoint_id="162"/>
+        <neighbor waypoint_id="164"/>
+        <neighbor waypoint_id="171"/>
+        <neighbor waypoint_id="172"/>
+        <neighbor waypoint_id="173"/>
+    </waypoint>
+    <waypoint x="5.760719999999999" y="2.4688799999999995">
+        <neighbor waypoint_id="154"/>
+        <neighbor waypoint_id="155"/>
+        <neighbor waypoint_id="156"/>
+        <neighbor waypoint_id="163"/>
+        <neighbor waypoint_id="165"/>
+        <neighbor waypoint_id="172"/>
+        <neighbor waypoint_id="173"/>
+    </waypoint>
+    <waypoint x="5.760719999999999" y="2.8803599999999996">
+        <neighbor waypoint_id="155"/>
+        <neighbor waypoint_id="156"/>
+        <neighbor waypoint_id="164"/>
+        <neighbor waypoint_id="173"/>
+    </waypoint>
+    <waypoint x="5.760719999999999" y="5.349239999999999">
+        <neighbor waypoint_id="157"/>
+        <neighbor waypoint_id="158"/>
+        <neighbor waypoint_id="167"/>
+        <neighbor waypoint_id="174"/>
+    </waypoint>
+    <waypoint x="5.760719999999999" y="5.760719999999999">
+        <neighbor waypoint_id="157"/>
+        <neighbor waypoint_id="158"/>
+        <neighbor waypoint_id="159"/>
+        <neighbor waypoint_id="166"/>
+        <neighbor waypoint_id="168"/>
+        <neighbor waypoint_id="174"/>
+        <neighbor waypoint_id="175"/>
+    </waypoint>
+    <waypoint x="5.760719999999999" y="6.172199999999999">
+        <neighbor waypoint_id="158"/>
+        <neighbor waypoint_id="159"/>
+        <neighbor waypoint_id="160"/>
+        <neighbor waypoint_id="167"/>
+        <neighbor waypoint_id="169"/>
+        <neighbor waypoint_id="174"/>
+        <neighbor waypoint_id="175"/>
+        <neighbor waypoint_id="176"/>
+    </waypoint>
+    <waypoint x="5.760719999999999" y="6.583679999999999">
+        <neighbor waypoint_id="159"/>
+        <neighbor waypoint_id="160"/>
+        <neighbor waypoint_id="168"/>
+        <neighbor waypoint_id="170"/>
+        <neighbor waypoint_id="175"/>
+        <neighbor waypoint_id="176"/>
+    </waypoint>
+    <waypoint x="5.760719999999999" y="6.995159999999999">
+        <neighbor waypoint_id="160"/>
+        <neighbor waypoint_id="169"/>
+        <neighbor waypoint_id="176"/>
+    </waypoint>
+    <target name="Right Rocket Cargo" waypoint_id="170"/>
+    <waypoint x="6.172199999999999" y="1.6459199999999998">
+        <neighbor waypoint_id="161"/>
+        <neighbor waypoint_id="162"/>
+        <neighbor waypoint_id="163"/>
+        <neighbor waypoint_id="172"/>
+        <neighbor waypoint_id="177"/>
+        <neighbor waypoint_id="178"/>
+        <neighbor waypoint_id="179"/>
+    </waypoint>
+    <waypoint x="6.172199999999999" y="2.0574">
+        <neighbor waypoint_id="162"/>
+        <neighbor waypoint_id="163"/>
+        <neighbor waypoint_id="164"/>
+        <neighbor waypoint_id="171"/>
+        <neighbor waypoint_id="173"/>
+        <neighbor waypoint_id="178"/>
+        <neighbor waypoint_id="179"/>
+        <neighbor waypoint_id="180"/>
+    </waypoint>
+    <waypoint x="6.172199999999999" y="2.4688799999999995">
+        <neighbor waypoint_id="163"/>
+        <neighbor waypoint_id="164"/>
+        <neighbor waypoint_id="165"/>
+        <neighbor waypoint_id="172"/>
+        <neighbor waypoint_id="179"/>
+        <neighbor waypoint_id="180"/>
+        <neighbor waypoint_id="181"/>
+    </waypoint>
+    <waypoint x="6.172199999999999" y="5.760719999999999">
+        <neighbor waypoint_id="166"/>
+        <neighbor waypoint_id="167"/>
+        <neighbor waypoint_id="168"/>
+        <neighbor waypoint_id="175"/>
+        <neighbor waypoint_id="182"/>
+        <neighbor waypoint_id="183"/>
+        <neighbor waypoint_id="231"/>
+    </waypoint>
+    <waypoint x="6.172199999999999" y="6.172199999999999">
+        <neighbor waypoint_id="167"/>
+        <neighbor waypoint_id="168"/>
+        <neighbor waypoint_id="169"/>
+        <neighbor waypoint_id="174"/>
+        <neighbor waypoint_id="176"/>
+        <neighbor waypoint_id="182"/>
+        <neighbor waypoint_id="183"/>
+        <neighbor waypoint_id="184"/>
+    </waypoint>
+    <waypoint x="6.172199999999999" y="6.583679999999999">
+        <neighbor waypoint_id="168"/>
+        <neighbor waypoint_id="169"/>
+        <neighbor waypoint_id="170"/>
+        <neighbor waypoint_id="175"/>
+        <neighbor waypoint_id="183"/>
+        <neighbor waypoint_id="184"/>
+        <neighbor waypoint_id="185"/>
+    </waypoint>
+    <waypoint x="6.583679999999999" y="1.2344399999999998">
+        <neighbor waypoint_id="171"/>
+        <neighbor waypoint_id="178"/>
+        <neighbor waypoint_id="188"/>
+        <neighbor waypoint_id="189"/>
+        <neighbor waypoint_id="190"/>
+        <neighbor waypoint_id="225"/>
+    </waypoint>
+    <waypoint x="6.583679999999999" y="1.6459199999999998">
+        <neighbor waypoint_id="171"/>
+        <neighbor waypoint_id="172"/>
+        <neighbor waypoint_id="177"/>
+        <neighbor waypoint_id="179"/>
+        <neighbor waypoint_id="189"/>
+        <neighbor waypoint_id="190"/>
+        <neighbor waypoint_id="191"/>
+    </waypoint>
+    <waypoint x="6.583679999999999" y="2.0574">
+        <neighbor waypoint_id="171"/>
+        <neighbor waypoint_id="172"/>
+        <neighbor waypoint_id="173"/>
+        <neighbor waypoint_id="178"/>
+        <neighbor waypoint_id="180"/>
+        <neighbor waypoint_id="190"/>
+        <neighbor waypoint_id="191"/>
+        <neighbor waypoint_id="192"/>
+    </waypoint>
+    <waypoint x="6.583679999999999" y="2.4688799999999995">
+        <neighbor waypoint_id="172"/>
+        <neighbor waypoint_id="173"/>
+        <neighbor waypoint_id="179"/>
+        <neighbor waypoint_id="181"/>
+        <neighbor waypoint_id="191"/>
+        <neighbor waypoint_id="192"/>
+    </waypoint>
+    <waypoint x="6.564503858786335" y="2.9891552794940934">
+        <neighbor waypoint_id="173"/>
+        <neighbor waypoint_id="180"/>
+        <neighbor waypoint_id="192"/>
+    </waypoint>
+    <target name="Cargo Left 2" waypoint_id="181"/>
+    <waypoint x="6.583679999999999" y="5.760719999999999">
+        <neighbor waypoint_id="174"/>
+        <neighbor waypoint_id="175"/>
+        <neighbor waypoint_id="183"/>
+        <neighbor waypoint_id="193"/>
+        <neighbor waypoint_id="194"/>
+        <neighbor waypoint_id="231"/>
+    </waypoint>
+    <waypoint x="6.583679999999999" y="6.172199999999999">
+        <neighbor waypoint_id="174"/>
+        <neighbor waypoint_id="175"/>
+        <neighbor waypoint_id="176"/>
+        <neighbor waypoint_id="182"/>
+        <neighbor waypoint_id="184"/>
+        <neighbor waypoint_id="193"/>
+        <neighbor waypoint_id="194"/>
+        <neighbor waypoint_id="195"/>
+    </waypoint>
+    <waypoint x="6.583679999999999" y="6.583679999999999">
+        <neighbor waypoint_id="175"/>
+        <neighbor waypoint_id="176"/>
+        <neighbor waypoint_id="183"/>
+        <neighbor waypoint_id="185"/>
+        <neighbor waypoint_id="194"/>
+        <neighbor waypoint_id="195"/>
+        <neighbor waypoint_id="196"/>
+    </waypoint>
+    <waypoint x="6.583679999999999" y="6.995159999999999">
+        <neighbor waypoint_id="176"/>
+        <neighbor waypoint_id="184"/>
+        <neighbor waypoint_id="186"/>
+        <neighbor waypoint_id="195"/>
+        <neighbor waypoint_id="196"/>
+        <neighbor waypoint_id="197"/>
+    </waypoint>
+    <waypoint x="6.56430684363688" y="7.577554670370765">
+        <neighbor waypoint_id="185"/>
+        <neighbor waypoint_id="196"/>
+        <neighbor waypoint_id="197"/>
+        <neighbor waypoint_id="198"/>
+    </waypoint>
+    <target name="Right Rocket Hatch Back" waypoint_id="186"/>
+    <waypoint x="6.995159999999999" y="0.41147999999999996">
+        <neighbor waypoint_id="188"/>
+        <neighbor waypoint_id="199"/>
+        <neighbor waypoint_id="200"/>
+        <neighbor waypoint_id="225"/>
+    </waypoint>
+    <waypoint x="6.995159999999999" y="0.8229599999999999">
+        <neighbor waypoint_id="177"/>
+        <neighbor waypoint_id="187"/>
+        <neighbor waypoint_id="189"/>
+        <neighbor waypoint_id="199"/>
+        <neighbor waypoint_id="200"/>
+        <neighbor waypoint_id="201"/>
+        <neighbor waypoint_id="225"/>
+    </waypoint>
+    <waypoint x="6.995159999999999" y="1.2344399999999998">
+        <neighbor waypoint_id="177"/>
+        <neighbor waypoint_id="178"/>
+        <neighbor waypoint_id="188"/>
+        <neighbor waypoint_id="190"/>
+        <neighbor waypoint_id="200"/>
+        <neighbor waypoint_id="201"/>
+        <neighbor waypoint_id="202"/>
+        <neighbor waypoint_id="225"/>
+    </waypoint>
+    <waypoint x="6.995159999999999" y="1.6459199999999998">
+        <neighbor waypoint_id="177"/>
+        <neighbor waypoint_id="178"/>
+        <neighbor waypoint_id="179"/>
+        <neighbor waypoint_id="189"/>
+        <neighbor waypoint_id="191"/>
+        <neighbor waypoint_id="201"/>
+        <neighbor waypoint_id="202"/>
+        <neighbor waypoint_id="203"/>
+    </waypoint>
+    <waypoint x="6.995159999999999" y="2.0574">
+        <neighbor waypoint_id="178"/>
+        <neighbor waypoint_id="179"/>
+        <neighbor waypoint_id="180"/>
+        <neighbor waypoint_id="190"/>
+        <neighbor waypoint_id="192"/>
+        <neighbor waypoint_id="202"/>
+        <neighbor waypoint_id="203"/>
+        <neighbor waypoint_id="204"/>
+    </waypoint>
+    <waypoint x="6.995159999999999" y="2.4688799999999995">
+        <neighbor waypoint_id="179"/>
+        <neighbor waypoint_id="180"/>
+        <neighbor waypoint_id="181"/>
+        <neighbor waypoint_id="191"/>
+        <neighbor waypoint_id="203"/>
+        <neighbor waypoint_id="204"/>
+        <neighbor waypoint_id="229"/>
+    </waypoint>
+    <waypoint x="6.995159999999999" y="5.760719999999999">
+        <neighbor waypoint_id="182"/>
+        <neighbor waypoint_id="183"/>
+        <neighbor waypoint_id="194"/>
+        <neighbor waypoint_id="205"/>
+        <neighbor waypoint_id="206"/>
+        <neighbor waypoint_id="230"/>
+        <neighbor waypoint_id="231"/>
+    </waypoint>
+    <waypoint x="6.995159999999999" y="6.172199999999999">
+        <neighbor waypoint_id="182"/>
+        <neighbor waypoint_id="183"/>
+        <neighbor waypoint_id="184"/>
+        <neighbor waypoint_id="193"/>
+        <neighbor waypoint_id="195"/>
+        <neighbor waypoint_id="205"/>
+        <neighbor waypoint_id="206"/>
+        <neighbor waypoint_id="207"/>
+    </waypoint>
+    <waypoint x="6.995159999999999" y="6.583679999999999">
+        <neighbor waypoint_id="183"/>
+        <neighbor waypoint_id="184"/>
+        <neighbor waypoint_id="185"/>
+        <neighbor waypoint_id="194"/>
+        <neighbor waypoint_id="196"/>
+        <neighbor waypoint_id="206"/>
+        <neighbor waypoint_id="207"/>
+        <neighbor waypoint_id="208"/>
+    </waypoint>
+    <waypoint x="6.995159999999999" y="6.995159999999999">
+        <neighbor waypoint_id="184"/>
+        <neighbor waypoint_id="185"/>
+        <neighbor waypoint_id="186"/>
+        <neighbor waypoint_id="195"/>
+        <neighbor waypoint_id="197"/>
+        <neighbor waypoint_id="207"/>
+        <neighbor waypoint_id="208"/>
+        <neighbor waypoint_id="209"/>
+    </waypoint>
+    <waypoint x="6.995159999999999" y="7.4066399999999994">
+        <neighbor waypoint_id="185"/>
+        <neighbor waypoint_id="186"/>
+        <neighbor waypoint_id="196"/>
+        <neighbor waypoint_id="198"/>
+        <neighbor waypoint_id="208"/>
+        <neighbor waypoint_id="209"/>
+        <neighbor waypoint_id="210"/>
+    </waypoint>
+    <waypoint x="6.995159999999999" y="7.8181199999999995">
+        <neighbor waypoint_id="186"/>
+        <neighbor waypoint_id="197"/>
+        <neighbor waypoint_id="209"/>
+        <neighbor waypoint_id="210"/>
+    </waypoint>
+    <waypoint x="7.4066399999999994" y="0.41147999999999996">
+        <neighbor waypoint_id="187"/>
+        <neighbor waypoint_id="188"/>
+        <neighbor waypoint_id="200"/>
+        <neighbor waypoint_id="211"/>
+        <neighbor waypoint_id="212"/>
+    </waypoint>
+    <waypoint x="7.4066399999999994" y="0.8229599999999999">
+        <neighbor waypoint_id="187"/>
+        <neighbor waypoint_id="188"/>
+        <neighbor waypoint_id="189"/>
+        <neighbor waypoint_id="199"/>
+        <neighbor waypoint_id="201"/>
+        <neighbor waypoint_id="211"/>
+        <neighbor waypoint_id="212"/>
+        <neighbor waypoint_id="213"/>
+    </waypoint>
+    <waypoint x="7.4066399999999994" y="1.2344399999999998">
+        <neighbor waypoint_id="188"/>
+        <neighbor waypoint_id="189"/>
+        <neighbor waypoint_id="190"/>
+        <neighbor waypoint_id="200"/>
+        <neighbor waypoint_id="202"/>
+        <neighbor waypoint_id="212"/>
+        <neighbor waypoint_id="213"/>
+        <neighbor waypoint_id="214"/>
+    </waypoint>
+    <waypoint x="7.4066399999999994" y="1.6459199999999998">
+        <neighbor waypoint_id="189"/>
+        <neighbor waypoint_id="190"/>
+        <neighbor waypoint_id="191"/>
+        <neighbor waypoint_id="201"/>
+        <neighbor waypoint_id="203"/>
+        <neighbor waypoint_id="213"/>
+        <neighbor waypoint_id="214"/>
+        <neighbor waypoint_id="215"/>
+    </waypoint>
+    <waypoint x="7.4066399999999994" y="2.0574">
+        <neighbor waypoint_id="190"/>
+        <neighbor waypoint_id="191"/>
+        <neighbor waypoint_id="192"/>
+        <neighbor waypoint_id="202"/>
+        <neighbor waypoint_id="204"/>
+        <neighbor waypoint_id="214"/>
+        <neighbor waypoint_id="215"/>
+        <neighbor waypoint_id="216"/>
+    </waypoint>
+    <waypoint x="7.4066399999999994" y="2.4688799999999995">
+        <neighbor waypoint_id="191"/>
+        <neighbor waypoint_id="192"/>
+        <neighbor waypoint_id="203"/>
+        <neighbor waypoint_id="215"/>
+        <neighbor waypoint_id="216"/>
+        <neighbor waypoint_id="217"/>
+        <neighbor waypoint_id="229"/>
+    </waypoint>
+    <waypoint x="7.4066399999999994" y="5.760719999999999">
+        <neighbor waypoint_id="193"/>
+        <neighbor waypoint_id="194"/>
+        <neighbor waypoint_id="206"/>
+        <neighbor waypoint_id="218"/>
+        <neighbor waypoint_id="219"/>
+        <neighbor waypoint_id="220"/>
+        <neighbor waypoint_id="230"/>
+    </waypoint>
+    <waypoint x="7.4066399999999994" y="6.172199999999999">
+        <neighbor waypoint_id="193"/>
+        <neighbor waypoint_id="194"/>
+        <neighbor waypoint_id="195"/>
+        <neighbor waypoint_id="205"/>
+        <neighbor waypoint_id="207"/>
+        <neighbor waypoint_id="219"/>
+        <neighbor waypoint_id="220"/>
+        <neighbor waypoint_id="221"/>
+    </waypoint>
+    <waypoint x="7.4066399999999994" y="6.583679999999999">
+        <neighbor waypoint_id="194"/>
+        <neighbor waypoint_id="195"/>
+        <neighbor waypoint_id="196"/>
+        <neighbor waypoint_id="206"/>
+        <neighbor waypoint_id="208"/>
+        <neighbor waypoint_id="220"/>
+        <neighbor waypoint_id="221"/>
+        <neighbor waypoint_id="222"/>
+    </waypoint>
+    <waypoint x="7.4066399999999994" y="6.995159999999999">
+        <neighbor waypoint_id="195"/>
+        <neighbor waypoint_id="196"/>
+        <neighbor waypoint_id="197"/>
+        <neighbor waypoint_id="207"/>
+        <neighbor waypoint_id="209"/>
+        <neighbor waypoint_id="221"/>
+        <neighbor waypoint_id="222"/>
+        <neighbor waypoint_id="223"/>
+    </waypoint>
+    <waypoint x="7.4066399999999994" y="7.4066399999999994">
+        <neighbor waypoint_id="196"/>
+        <neighbor waypoint_id="197"/>
+        <neighbor waypoint_id="198"/>
+        <neighbor waypoint_id="208"/>
+        <neighbor waypoint_id="210"/>
+        <neighbor waypoint_id="222"/>
+        <neighbor waypoint_id="223"/>
+        <neighbor waypoint_id="224"/>
+    </waypoint>
+    <waypoint x="7.4066399999999994" y="7.8181199999999995">
+        <neighbor waypoint_id="197"/>
+        <neighbor waypoint_id="198"/>
+        <neighbor waypoint_id="209"/>
+        <neighbor waypoint_id="223"/>
+        <neighbor waypoint_id="224"/>
+    </waypoint>
+    <waypoint x="7.8181199999999995" y="0.41147999999999996">
+        <neighbor waypoint_id="199"/>
+        <neighbor waypoint_id="200"/>
+        <neighbor waypoint_id="212"/>
+    </waypoint>
+    <waypoint x="7.8181199999999995" y="0.8229599999999999">
+        <neighbor waypoint_id="199"/>
+        <neighbor waypoint_id="200"/>
+        <neighbor waypoint_id="201"/>
+        <neighbor waypoint_id="211"/>
+        <neighbor waypoint_id="213"/>
+    </waypoint>
+    <waypoint x="7.8181199999999995" y="1.2344399999999998">
+        <neighbor waypoint_id="200"/>
+        <neighbor waypoint_id="201"/>
+        <neighbor waypoint_id="202"/>
+        <neighbor waypoint_id="212"/>
+        <neighbor waypoint_id="214"/>
+    </waypoint>
+    <waypoint x="7.8181199999999995" y="1.6459199999999998">
+        <neighbor waypoint_id="201"/>
+        <neighbor waypoint_id="202"/>
+        <neighbor waypoint_id="203"/>
+        <neighbor waypoint_id="213"/>
+        <neighbor waypoint_id="215"/>
+    </waypoint>
+    <waypoint x="7.8181199999999995" y="2.0574">
+        <neighbor waypoint_id="202"/>
+        <neighbor waypoint_id="203"/>
+        <neighbor waypoint_id="204"/>
+        <neighbor waypoint_id="214"/>
+        <neighbor waypoint_id="216"/>
+    </waypoint>
+    <waypoint x="7.8181199999999995" y="2.4688799999999995">
+        <neighbor waypoint_id="203"/>
+        <neighbor waypoint_id="204"/>
+        <neighbor waypoint_id="215"/>
+        <neighbor waypoint_id="217"/>
+    </waypoint>
+    <waypoint x="7.683887011504346" y="3.0109143353929118">
+        <neighbor waypoint_id="204"/>
+        <neighbor waypoint_id="216"/>
+    </waypoint>
+    <target name="Cargo Left 4" waypoint_id="217"/>
+    <waypoint x="7.703063152718012" y="5.196926608708268">
+        <neighbor waypoint_id="205"/>
+        <neighbor waypoint_id="219"/>
+    </waypoint>
+    <target name="Cargo Right 4" waypoint_id="218"/>
+    <waypoint x="7.8181199999999995" y="5.760719999999999">
+        <neighbor waypoint_id="205"/>
+        <neighbor waypoint_id="206"/>
+        <neighbor waypoint_id="218"/>
+        <neighbor waypoint_id="220"/>
+    </waypoint>
+    <waypoint x="7.8181199999999995" y="6.172199999999999">
+        <neighbor waypoint_id="205"/>
+        <neighbor waypoint_id="206"/>
+        <neighbor waypoint_id="207"/>
+        <neighbor waypoint_id="219"/>
+        <neighbor waypoint_id="221"/>
+    </waypoint>
+    <waypoint x="7.8181199999999995" y="6.583679999999999">
+        <neighbor waypoint_id="206"/>
+        <neighbor waypoint_id="207"/>
+        <neighbor waypoint_id="208"/>
+        <neighbor waypoint_id="220"/>
+        <neighbor waypoint_id="222"/>
+    </waypoint>
+    <waypoint x="7.8181199999999995" y="6.995159999999999">
+        <neighbor waypoint_id="207"/>
+        <neighbor waypoint_id="208"/>
+        <neighbor waypoint_id="209"/>
+        <neighbor waypoint_id="221"/>
+        <neighbor waypoint_id="223"/>
+    </waypoint>
+    <waypoint x="7.8181199999999995" y="7.4066399999999994">
+        <neighbor waypoint_id="208"/>
+        <neighbor waypoint_id="209"/>
+        <neighbor waypoint_id="210"/>
+        <neighbor waypoint_id="222"/>
+        <neighbor waypoint_id="224"/>
+    </waypoint>
+    <waypoint x="7.8181199999999995" y="7.8181199999999995">
+        <neighbor waypoint_id="209"/>
+        <neighbor waypoint_id="210"/>
+        <neighbor waypoint_id="223"/>
+    </waypoint>
+    <waypoint x="6.524762240045425" y="0.6572789400576984">
+        <neighbor waypoint_id="188"/>
+        <neighbor waypoint_id="177"/>
+        <neighbor waypoint_id="189"/>
+        <neighbor waypoint_id="187"/>
+    </waypoint>
+    <target name="Right Rocket Hatch Back" waypoint_id="225"/>
+    <waypoint x="4.994282887358932" y="0.6572789400576984">
+        <neighbor waypoint_id="122"/>
+        <neighbor waypoint_id="140"/>
+        <neighbor waypoint_id="123"/>
+        <neighbor waypoint_id="121"/>
+    </waypoint>
+    <target name="Left Rocket Hatch Front" waypoint_id="226"/>
+    <waypoint x="5.199769688240975" y="3.8356306494323067">
+        <neighbor waypoint_id="129"/>
+        <neighbor waypoint_id="130"/>
+    </waypoint>
+    <target name="Cargo Left 1" waypoint_id="227"/>
+    <waypoint x="5.180593547027311" y="4.401366102801592">
+        <neighbor waypoint_id="131"/>
+        <neighbor waypoint_id="146"/>
+    </waypoint>
+    <target name="Cargo Right 1" waypoint_id="228"/>
+    <waypoint x="7.155736092034776" y="3.0087865252771966">
+        <neighbor waypoint_id="192"/>
+        <neighbor waypoint_id="204"/>
+    </waypoint>
+    <target name="Cargo Left 3" waypoint_id="229"/>
+    <waypoint x="7.1557360920347755" y="5.206451171057881">
+        <neighbor waypoint_id="193"/>
+        <neighbor waypoint_id="205"/>
+    </waypoint>
+    <target name="Cargo Right 3" waypoint_id="230"/>
+    <waypoint x="6.5996279968385" y="5.293487394653156">
+        <neighbor waypoint_id="182"/>
+        <neighbor waypoint_id="174"/>
+        <neighbor waypoint_id="193"/>
+    </waypoint>
+    <target name="Cargo Right 2" waypoint_id="231"/>
+    <waypoint x="0.3098536787564765" y="0.658808488204781">
+        <neighbor waypoint_id="0"/>
+        <neighbor waypoint_id="1"/>
+        <neighbor waypoint_id="2"/>
+    </waypoint>
+    <target name="Left Load Station" waypoint_id="232"/>
+    <waypoint x="0.3098536787564765" y="7.556429208130297">
+        <neighbor waypoint_id="3"/>
+        <neighbor waypoint_id="4"/>
+        <neighbor waypoint_id="5"/>
+    </waypoint>
+    <target name="Right Load Station" waypoint_id="233"/>
+</lattice>

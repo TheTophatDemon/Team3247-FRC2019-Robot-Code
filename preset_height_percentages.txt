@@ -1,0 +1,23 @@
+Level 1 Hatch
+    Bottom-down
+        Mast: 0/3400  Arm: 1000/6000  
+    Bottom-out
+        Mast: 1000/3400   Arm: -500/6000
+Level 2 Hatch
+    Bottom-down
+        Mast: 0/3400  Arm: 4000/6000
+Level 3 Hatch  
+    Bottom-down
+        Mast: 1600/3400  Arm: 5800/6000
+Level 1 Ball
+    Bottom-down
+        Mast: 0   Arm: 3300/6000
+Level 2 Ball
+    Bottom-down
+        Mast: 0/3400  Arm: 5800/6000
+Level 3 Ball
+    Bottom-Down
+        Mast: 3400/3400  Arm: 5800/6000
+
+Deployment
+	Mast: 400/3400 Arm: 600/6000
